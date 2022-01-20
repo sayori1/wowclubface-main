@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wowclub Face</string>
+    <string name="facebook_app_id">1062117737863325</string>
+    <string name="fb_login_protocol_scheme">fb1062117737863325</string>
+</resources>
